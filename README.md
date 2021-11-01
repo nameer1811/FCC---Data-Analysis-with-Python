@@ -1,10 +1,10 @@
-# fcc-data-analysis-with-python
+# freeCodeCamp Data Analysis with Python
 
-These are my solutions to the course "Data Analysis with Python" in freeCodeCamp
+These are my solutions of the course projects "Data Analysis with Python" in freeCodeCamp.
 
 Please visit https://www.freecodecamp.org/learn/data-analysis-with-python/ to learn more about data analysis in python. 
 
-The solutions were for the assignments below:
+The solutions were for the projects below:
 
 # Mean, Standard Deviation, and Variance
 
