@@ -1,6 +1,6 @@
 # freeCodeCamp Data Analysis with Python
 
-These are my solutions of the course projects "Data Analysis with Python" in freeCodeCamp.
+These are my solutions of the course projects "Data Analysis with Python" in freeCodeCamp. All the data files are in csv_files. Before I turned in, I also tried my solution out in a Jupyter Notebook. All the solutions of my implementations can also be found there.
 
 Please visit https://www.freecodecamp.org/learn/data-analysis-with-python/ to learn more about data analysis in python. 
 
