@@ -4,7 +4,7 @@ These are my solutions of the course projects "Data Analysis with Python" in fre
 
 All the data files are in the directory "csv_files". The file "fcc_data_analysis_with_python.ipynb" can also be found in my repository which is where I tested the code before I turned them in.
 
-Please visit https://www.freecodecamp.org/learn/data-analysis-with-python/ to learn more about data analysis in python. 
+Please visit https://www.freecodecamp.org/learn/data-analysis-with-python/ to learn more about data analysis with python. 
 
 The solutions were for the projects below:
 
